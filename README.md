@@ -7,9 +7,9 @@ My Projects developed in NodeJs
 
 [logsprr/apiClass](https://github.com/logsprr/apiClass#readme) - Server Client of Training App like Google Class.
 
-[logsprr/apiNews](https://github.com/logsprr/PROTOBACKEND#readme) - Server Client of News App like Instagram.
+[logsprr/apiNews](https://github.com/logsprr/apiNews#readme) - Server Client of News App like Instagram.
 
-[logsprr/apiEvents](https://github.com/logsprr/PROTOBACKEND#readme) - Server Client of Events App like as Meetup.
+[logsprr/apiEvents](https://github.com/logsprr/apiEvents#readme) - Server Client of Events App like as Meetup.
 
-[logsprr/apiMedical](https://github.com/logsprr/PROTOBACKEND#readme) - Server Client of Medical Voucher App like as Dr. Consulta.
+[logsprr/apiMedical](https://github.com/logsprr/apiMedical#readme) - Server Client of Medical Voucher App like as Dr. Consulta.
 
